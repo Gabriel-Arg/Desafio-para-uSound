@@ -13,15 +13,21 @@
 #txt-acordeon {
   font-family: "Roboto", sans-serif;
   color: #434343;
+  font-size: 13px;
 }
 
 #link-acordeon {
   text-decoration: none;
   color: #434343;
+  font-size: 13px;
 }
 
 #link-acordeon:hover {
   color: #ec2F4B;
+}
+
+#lista {
+  padding: 0;
 }
 
 body .card-fluid {

@@ -12,13 +12,18 @@
 #txt-acordeon {
     font-family: 'Roboto', sans-serif;
     color: rgb(67, 67, 67);
+    font-size: 13px;
 }
 #link-acordeon {
     text-decoration: none;
     color: rgb(67, 67, 67);
+    font-size: 13px;
 }
 #link-acordeon:hover {
     color: #ec2F4B;
+}
+#lista {
+    padding: 0;
 }
 
 body {
