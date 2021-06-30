@@ -9,6 +9,17 @@
     font-weight: 600;
     color: rgb(67, 67, 67);
 }
+#txt-acordeon {
+    font-family: 'Roboto', sans-serif;
+    color: rgb(67, 67, 67);
+}
+#link-acordeon {
+    text-decoration: none;
+    color: rgb(67, 67, 67);
+}
+#link-acordeon:hover {
+    color: #ec2F4B;
+}
 
 body {
     .card-fluid {

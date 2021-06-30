@@ -1,0 +1,23 @@
+@media screen and (max-width: 575px) {
+    
+    body .card-fluid .card-container {
+        padding: 0;
+    }
+    
+    body .card-fluid .card-container .card-row {
+        height: auto;
+        width: 90vw;
+        padding: 15px 15px 20px;
+    }
+    body .card-fluid .card-container .card-row header h1 {
+        font-size: 1.2rem;
+    }
+    body .card-fluid .card-container .card-row header figure {
+        width: 3rem;
+        height: auto;
+    }
+    #txt-acordeon,
+    #link-acordeon {
+        font-size: 1rem;
+    }
+}

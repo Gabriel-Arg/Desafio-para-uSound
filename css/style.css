@@ -10,6 +10,20 @@
   color: #434343;
 }
 
+#txt-acordeon {
+  font-family: "Roboto", sans-serif;
+  color: #434343;
+}
+
+#link-acordeon {
+  text-decoration: none;
+  color: #434343;
+}
+
+#link-acordeon:hover {
+  color: #ec2F4B;
+}
+
 body .card-fluid {
   height: 100vh;
   background: #009FFF;
