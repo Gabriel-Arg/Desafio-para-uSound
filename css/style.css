@@ -1,0 +1,56 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+#btn-titulo {
+  font-family: "Roboto", sans-serif;
+  font-weight: 600;
+  color: #434343;
+}
+
+body .card-fluid {
+  height: 100vh;
+  background: #009FFF;
+  background: -webkit-linear-gradient(to bottom, #ec2F4B, #009FFF);
+  background: linear-gradient(to bottom, #ec2F4B, #009FFF);
+}
+body .card-fluid .card-container {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+body .card-fluid .card-container .card-row {
+  height: auto;
+  width: 60vw;
+  padding: 20px 20px 30px;
+  background-color: #ffffff;
+  border-radius: 7px;
+  box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.542);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
+}
+body .card-fluid .card-container .card-row header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+body .card-fluid .card-container .card-row header h1 {
+  font-family: "Roboto", sans-serif;
+  font-weight: 600;
+}
+body .card-fluid .card-container .card-row header figure {
+  width: 100px;
+  height: auto;
+}
+body .card-fluid .card-container .card-row header figure img {
+  width: 100%;
+}
+
+/*# sourceMappingURL=style.css.map */
